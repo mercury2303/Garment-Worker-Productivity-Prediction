@@ -30,3 +30,13 @@ actual_productivity: The target variable representing productivity achieved (bet
 OBJECTIVE: To predict the actual productivity of a team based on above features.
 
 
+3. ABOUT THE PREDICITIVE MODEL:  
+Users provide data for features like department, quarter, and specific date through an interactive 
+interface (in this case, a Google Colab widget). 
+The system preprocesses the input data to ensure compatibility with the trained model. 
+Application: The predicted productivity value is displayed to the user in an interpretable format, 
+helping in decision-making or performance monitoring in scenario based conditions. 
+
+![image](https://github.com/user-attachments/assets/fe77a638-6f8b-49d1-aa26-d433fc44da81)
+
+
